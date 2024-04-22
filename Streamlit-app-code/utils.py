@@ -6,6 +6,7 @@ Created on Fri Apr 19 12:24:46 2024
 """
 
 import spotipy
+import streamlit as st
 from umap import UMAP
 from sklearn.preprocessing import StandardScaler
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -15,18 +16,13 @@ import plotly.express as px
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
 
-
-
-# Load environment variables
-client_id = os.getenv('client_id')
-client_secret = os.getenv('client_secret')
-
+# Load environment variables from Streamlit secrets
+client_id = st.secrets["client_id"]
+client_secret = st.secrets["client_secret"]
 
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, 
                                                       client_secret=client_secret)
-
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
