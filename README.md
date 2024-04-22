@@ -1,7 +1,5 @@
 # G.A.R.U.D.A. :
 
-![Concept Image](https://raw.githubusercontent.com/SamMajumder/GARUDA/main/Streamlit-app-code/GARUDA-concept-art.webp)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/SamMajumder/GARUDA/main/Streamlit-app-code/GARUDA-concept-art.webp" alt="Concept Image">
   <br>
