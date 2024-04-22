@@ -1,4 +1,4 @@
-# G.A.R.U.D.A.:
+# G.A.R.U.D.A. :
 
 ## Overview
  **G**uided **A**nalysis and **R**etrieval for **U**ser-**D**riven **D**ata **A**ssessment in spotify audio features is an application designed to provide comprehensive analysis and retrieval of Spotify audio features from Spotify's extensive music library. Leveraging Spotify's robust Web API, GARUDA allows users to compare Spotify audio features of a selected song with those of various songs in a playlist, delivering insights through visually engaging and interactive plots.
@@ -24,7 +24,11 @@ The name **GARUDA** is inspired by the mythical bird-like creature known in Hind
 **GARUDA** operates through a straightforward user-driven process:
 
 ### Playlist Comparison Tool
-1. **User Input**: Users input the name of an artist, song, and a Spotify playlist ID.
+1. **User Input**: Users input the name of an artist, song, and a Spotify playlist ID.                                                                                                                                      **Note**: This is how you retrieve the playlist id from a spotify playlist link ## Playlist ID Visualization
+
+![Playlist ID](https://raw.githubusercontent.com/SamMajumder/GARUDA/main/playlist_id.png)
+
+
 2. **Data Retrieval**: Retrieves the Spotify audio features of the specified song and all songs within the provided playlist using Spotify's Web API.
 3. **Analysis and Comparison**: Analyzes and compares these features, highlighting how similar or different the selected song is from those in the playlist.
 4. **Visualization**: Displays results through interactive UMAP plots that map out the similarity landscape, making it easy to visualize the comparative analysis.
