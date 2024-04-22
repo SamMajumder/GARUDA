@@ -10,7 +10,7 @@ import streamlit as st
 def about_page():
     st.title('About This App')
     
-    st.image("https://github.com/YourUsername/YourRepository/blob/main/path/to/image.png?raw=true", caption='Concept Art of GARUDA Interface')
+    st.image("https://raw.githubusercontent.com/SamMajumder/GARUDA/main/Streamlit-app-code/GARUDA-concept-art.webp", caption='Concept Art of GARUDA Interface')
     
     st.write("""
     ## What is this app?
