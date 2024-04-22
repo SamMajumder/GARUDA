@@ -1,0 +1,9 @@
+streamlit
+streamlit_option_menu
+spotipy
+pandas
+plotly
+scikit-learn
+umap-learn 
+python-dotenv
+
