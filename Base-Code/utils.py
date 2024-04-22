@@ -6,7 +6,6 @@ Created on Fri Apr 19 12:24:46 2024
 """
 
 import spotipy
-import time
 from umap import UMAP
 from sklearn.preprocessing import StandardScaler
 from spotipy.oauth2 import SpotifyClientCredentials
