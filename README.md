@@ -2,10 +2,17 @@
 
 ![Concept Image](https://raw.githubusercontent.com/SamMajumder/GARUDA/main/Streamlit-app-code/GARUDA-concept-art.webp)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamMajumder/GARUDA/main/Streamlit-app-code/GARUDA-concept-art.webp" alt="Concept Image">
+  <br>
+  Created using DALL-E by OpenAI
+</p>
+
+
 ## Overview
  **G**uided **A**nalysis and **R**etrieval for **U**ser-**D**riven **D**ata **A**ssessment in spotify audio features is an application designed to provide comprehensive analysis and retrieval of Spotify audio features from Spotify's extensive music library. Leveraging Spotify's robust Web API, GARUDA allows users to compare Spotify audio features of a selected song with those of various songs in a playlist, delivering insights through visually engaging and interactive plots.
 
-**Check out the app ![here](https://garuda.streamlit.app/)
+[Check out the GARUDA app here](https://garuda.streamlit.app/)
 
 ## Background
 The name **GARUDA** is inspired by the mythical bird-like creature known in Hindu mythology as the king of birds and the vahana (mount) of Lord Vishnu. Known for its speed, strength, and martial prowess, Garuda represents the ability to swiftly navigate vast spaces and carry immense wisdom. This mirrors the application’s capability to efficiently handle and analyze vast amounts of musical data, providing quick and insightful results to its users.
