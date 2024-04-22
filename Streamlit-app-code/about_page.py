@@ -22,7 +22,7 @@ def about_page():
     - **Compare Genre**: Access the 'Compare Genre' page to delve into specific music genres, comparing songs within that genre to discover common attributes and variances.
 
     ## Source Code
-    Interested in the source code? Visit our [GitHub repository](https://github.com/SamMajumder/GARUDA).
+    Interested in the source code? Visit the [GitHub repository](https://github.com/SamMajumder/GARUDA).
 
     ## Contact Information
     For more information, suggestions, or potential collaborations, feel free to drop an email at [sambadimajumder@gmail.com](mailto:sambadimajumder@gmail.com).
