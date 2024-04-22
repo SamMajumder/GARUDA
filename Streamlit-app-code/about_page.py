@@ -10,6 +10,8 @@ import streamlit as st
 def about_page():
     st.title('About This App')
     
+    st.image("https://github.com/YourUsername/YourRepository/blob/main/path/to/image.png?raw=true", caption='Concept Art of GARUDA Interface')
+    
     st.write("""
     ## What is this app?
     **G**uided **A**nalysis and **R**etrieval for **U**ser-**D**riven **D**ata **A**ssessment in spotify audio features is an application designed to provide comprehensive analysis and retrieval of Spotify audio features from Spotify's extensive music library. Leveraging Spotify's robust Web API, GARUDA allows users to compare Spotify audio features of a selected song with those of various songs in a playlist, delivering insights through visually engaging and interactive plots.
